@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320301285725",
+    "firebase_url": "https://smart-gardening-c9c74-default-rtdb.firebaseio.com",
+    "project_id": "smart-gardening-c9c74",
+    "storage_bucket": "smart-gardening-c9c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320301285725:android:fe266a0ea50965fe3268b4",
+        "android_client_info": {
+          "package_name": "com.example.self_sustaining_garden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320301285725-4sqre2oghhurvba662mr98fg5cd9ss59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIV4Vkmy-E5i5rHLrspBGcxENR6RJJBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320301285725-4sqre2oghhurvba662mr98fg5cd9ss59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
